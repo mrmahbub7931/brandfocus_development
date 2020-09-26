@@ -1,0 +1,72 @@
+[21-Sep-2020 06:10:09 UTC] PHP Notice:  Undefined variable: options in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/page.php on line 62
+[23-Sep-2020 04:33:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function setPostViews() in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php:10
+Stack trace:
+#0 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/template.php(732): require()
+#1 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/template.php(676): load_template('/home3/cqxmnhmy...', false, Array)
+#2 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/single.php(42): get_template_part('loop-templates/...', 'single')
+#4 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/template-loader.php(106): include('/home3/cqxmnhmy...')
+#5 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-blog-header.php(19): require_once('/home3/cqxmnhmy...')
+#6 /home3/cqxmnhmy/public_html/brandfocus.xyz/index.php(17): require('/home3/cqxmnhmy...')
+#7 {main}
+  thrown in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php on line 10
+[23-Sep-2020 07:04:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail_src() in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php:55
+Stack trace:
+#0 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/template.php(732): require()
+#1 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/template.php(676): load_template('/home3/cqxmnhmy...', false, Array)
+#2 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/single.php(42): get_template_part('loop-templates/...', 'single')
+#4 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/template-loader.php(106): include('/home3/cqxmnhmy...')
+#5 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-blog-header.php(19): require_once('/home3/cqxmnhmy...')
+#6 /home3/cqxmnhmy/public_html/brandfocus.xyz/index.php(17): require('/home3/cqxmnhmy...')
+#7 {main}
+  thrown in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php on line 55
+[23-Sep-2020 07:09:32 UTC] PHP Notice:  Array to string conversion in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php on line 55
+[23-Sep-2020 07:10:21 UTC] PHP Notice:  Array to string conversion in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php on line 55
+[23-Sep-2020 07:11:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail_src() in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php:40
+Stack trace:
+#0 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/template.php(732): require()
+#1 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/template.php(676): load_template('/home3/cqxmnhmy...', false, Array)
+#2 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/single.php(42): get_template_part('loop-templates/...', 'single')
+#4 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/template-loader.php(106): include('/home3/cqxmnhmy...')
+#5 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-blog-header.php(19): require_once('/home3/cqxmnhmy...')
+#6 /home3/cqxmnhmy/public_html/brandfocus.xyz/index.php(17): require('/home3/cqxmnhmy...')
+#7 {main}
+  thrown in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php on line 40
+[23-Sep-2020 07:11:52 UTC] PHP Notice:  Array to string conversion in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php on line 57
+[23-Sep-2020 07:12:09 UTC] PHP Notice:  Array to string conversion in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php on line 57
+[23-Sep-2020 07:36:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail_src() in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php:42
+Stack trace:
+#0 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/template.php(732): require()
+#1 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/template.php(676): load_template('/home3/cqxmnhmy...', false, Array)
+#2 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/single.php(42): get_template_part('loop-templates/...', 'single')
+#4 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/template-loader.php(106): include('/home3/cqxmnhmy...')
+#5 /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-blog-header.php(19): require_once('/home3/cqxmnhmy...')
+#6 /home3/cqxmnhmy/public_html/brandfocus.xyz/index.php(17): require('/home3/cqxmnhmy...')
+#7 {main}
+  thrown in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php on line 42
+[23-Sep-2020 07:42:15 UTC] PHP Notice:  Undefined variable: sb_url in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php on line 44
+[23-Sep-2020 07:42:15 UTC] PHP Notice:  Undefined variable: sb_title in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php on line 44
+[23-Sep-2020 07:42:20 UTC] PHP Notice:  Undefined variable: sb_url in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php on line 44
+[23-Sep-2020 07:42:20 UTC] PHP Notice:  Undefined variable: sb_title in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php on line 44
+[23-Sep-2020 07:42:25 UTC] PHP Notice:  Undefined variable: sb_url in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php on line 44
+[23-Sep-2020 07:42:25 UTC] PHP Notice:  Undefined variable: sb_title in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php on line 44
+[23-Sep-2020 09:15:52 UTC] PHP Warning:  Missing argument 1 for get_author_posts_url(), called in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/loop-templates/content-single.php on line 22 and defined in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/author-template.php on line 344
+[23-Sep-2020 09:15:52 UTC] PHP Notice:  Undefined variable: author_id in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/author-template.php on line 346
+[23-Sep-2020 09:15:52 UTC] PHP Notice:  Undefined variable: author_id in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/author-template.php on line 354
+[23-Sep-2020 09:15:52 UTC] PHP Notice:  Undefined variable: author_id in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/author-template.php on line 372
+[23-Sep-2020 09:23:17 UTC] PHP Deprecated:  the_author_ID is <strong>deprecated</strong> since version 2.8.0! Use the_author_meta('ID') instead. in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/functions.php on line 4773
+[23-Sep-2020 09:25:30 UTC] PHP Deprecated:  the_author_url is <strong>deprecated</strong> since version 2.8.0! Use the_author_meta('url') instead. in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/functions.php on line 4773
+[23-Sep-2020 09:26:24 UTC] PHP Deprecated:  the_author_url is <strong>deprecated</strong> since version 2.8.0! Use the_author_meta('url') instead. in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/functions.php on line 4773
+[23-Sep-2020 09:30:50 UTC] PHP Deprecated:  the_author_ID is <strong>deprecated</strong> since version 2.8.0! Use the_author_meta('ID') instead. in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/functions.php on line 4773
+[23-Sep-2020 09:30:50 UTC] PHP Deprecated:  the_author_url is <strong>deprecated</strong> since version 2.8.0! Use the_author_meta('url') instead. in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/functions.php on line 4773
+[23-Sep-2020 09:31:10 UTC] PHP Deprecated:  the_author_url is <strong>deprecated</strong> since version 2.8.0! Use the_author_meta('url') instead. in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-includes/functions.php on line 4773
+[26-Sep-2020 06:34:58 UTC] PHP Parse error:  syntax error, unexpected '111' (T_LNUMBER), expecting ',' or ')' in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/footer.php on line 21
+[26-Sep-2020 06:35:00 UTC] PHP Parse error:  syntax error, unexpected '111' (T_LNUMBER), expecting ',' or ')' in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/footer.php on line 21
+[26-Sep-2020 06:35:01 UTC] PHP Parse error:  syntax error, unexpected '111' (T_LNUMBER), expecting ',' or ')' in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/footer.php on line 21
+[26-Sep-2020 06:35:02 UTC] PHP Parse error:  syntax error, unexpected '111' (T_LNUMBER), expecting ',' or ')' in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/footer.php on line 21
+[26-Sep-2020 08:45:57 UTC] PHP Notice:  Undefined variable: first_posts in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/front-page.php on line 177
+[26-Sep-2020 08:52:31 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/front-page.php on line 178
+[26-Sep-2020 08:52:47 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home3/cqxmnhmy/public_html/brandfocus.xyz/wp-content/themes/tm_marketing/front-page.php on line 178
